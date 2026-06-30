@@ -7,7 +7,7 @@
 
 - To strengthen my understanding, I created a comprehensive set of handwritten study notes covering the complete RAG pipeline in a simple, visual format.
   
-##📝 This page includes: 
+## 📝 This page includes: 
 
 - ✅ End-to-end RAG Pipeline
 - ✅ Query Preprocessing
