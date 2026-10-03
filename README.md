@@ -182,7 +182,14 @@ Once you understand this pipeline, LLMs feel less mysterious.
 
 <img width="930" height="1162" alt="image" src="https://github.com/user-attachments/assets/adc71349-f132-46ef-b438-17f8e4dd4198" />
 
-__
+---
+
+<img width="1082" height="1370" alt="image" src="https://github.com/user-attachments/assets/84506d65-19f3-4d0a-98ff-4202c8c82f87" />
+
+---
+
+
+
 
 
   
